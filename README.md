@@ -6,8 +6,8 @@ tjujingzong/tjujingzong is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=tjujingzong&count_private=true&show_icons=true&theme=graywhite&show_owner=true" style="height :150px!important" / >
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=tjujingzong&count_private=true&show_icons=true&theme=graywhite&show_owner=true" style="height :180px!important" / >
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjujingzong&theme=graywhite&layout=compact&hide=html" style="height :150px!important"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjujingzong&theme=graywhite&layout=compact&hide=html" style="height :180px!important"/>
 </a>
