@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tjujingzong&count_private=true&show_icons=true&theme=graywhite&show_owner=true" style="height :175px!important" / >
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tjujingzong&theme=graywhite&layout=compact&hide=html" style="height :175px!important"/>
+  <img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tjujingzong&theme=graywhite&layout=compact&hide=html,Tex" style="height :175px!important"/>
 </a>
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tjujingzong.tjujingzong">
