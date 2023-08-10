@@ -4,7 +4,6 @@
 tjujingzong/tjujingzong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
-   <img  height="175px" src="https://github-readme-stats.vercel.app/api?username=tjujingzong&theme=transparent&show_icons=true&PAT_1">
-   <img  height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjujingzong&layout=compact&PAT_1&hide=HTML,tex">
-</div>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tjujingzong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjujingzong&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
