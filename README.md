@@ -5,5 +5,5 @@ tjujingzong/tjujingzong is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tjujingzong&show_icons=true&include_all_commits=true&theme=shadow_blue&hide_border=true&PTA_1" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjujingzong&layout=compact&theme=shadow_blue&hide_border=true&PTA_1" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tjujingzong&show_icons=true&include_all_commits=false&theme=shadow_blue&hide_border=true&PTA_1" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjujingzong&layout=compact&theme=shadow_blue&hide_border=true&PTA_1" /></a> |
 | ------------- | ------------- |
